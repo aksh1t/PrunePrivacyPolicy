@@ -1,0 +1,25 @@
+Privacy Policy for Prune
+
+This Privacy Policy describes how Prune (referred to as "we", "us", or "our") collects, uses, and discloses your information through our mobile application.
+
+Information Collection and Use:
+When you use Prune, we do not collect any personal information from you. The app operates solely on your device, and we do not have access to any of your photos or personal data. The app processes content locally on your device to identify duplicate, similar, and low-quality photos to help you manage and optimize your photo library.
+
+Permissions:
+Prune requires the following permissions to function optimally:
+
+Storage Access: 
+Permission to access your device’s photo gallery for the purpose of identifying and managing duplicate and similar photos.
+
+Data Management:
+All processing and data management occurs on your device. We do not store, save, or transmit any personal data or photos from your device. You have complete control over your photos and data at all times.
+
+Data Security:
+We implement industry-standard security measures to protect the app and its functionalities. However, as the app operates entirely locally and does not transmit data off your device, your data remains under your control and is safeguarded by your device’s built-in security features.
+
+Changes to This Privacy Policy: 
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+Contact Us: 
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us via email at akshat.patel16@gmail.com.
+
